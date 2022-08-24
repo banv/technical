@@ -1,0 +1,26 @@
+.Table Attributes
+[cols="^1,<2"]
+|===
+| Attribute Name | Values
+
+| options
+| header,footer,autowidth
+
+| cols
+| colspec[;colspec;...]
+
+| grid
+| all \| cols \| rows \| none
+
+| frame
+| all \| sides \| topbot \| none
+
+| stripes
+| all \| even \| odd \| none
+
+| width
+| (0%..100%)
+
+| format
+| psv {vbar} csv {vbar} dsv
+|===
